@@ -16,14 +16,20 @@ Este informe finaliza la preparación de los datos. Aquí se realiza la codifica
 
 ## Autores
 •⁠  ⁠*Carmen Huerta Sánchez* (carmen.huerta@cunef.edu)
+
 •⁠  ⁠*Carmen Querejeta* (carmen.querejeta@cunef.edu)
+
 •⁠  ⁠*Olivia Ares Arenas* (olivia.ares@cunef.edu)
 
 ## Estructura del Proyecto
 •⁠  ⁠*data/*: Carpeta vacía destinada a los datos originales.
+
 •⁠  ⁠*html/*: Notebooks convertidos a formato HTML.
+
 •⁠  ⁠*notebooks/*: Notebooks originales en formato ⁠ .ipynb ⁠.
+
 •⁠   *scr/*: Notebooks originales en formato .py
+
 •⁠   *env/*: Carpeta incluye requirements.txt
 
 
