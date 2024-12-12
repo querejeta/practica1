@@ -1,0 +1,16 @@
+numpy==1.23.5
+pandas==1.5.3
+scikit-learn==1.2.2
+matplotlib==3.6.2
+seaborn==0.12.3
+termcolor==2.4.0
+category-encoders==2.6.2
+scikit-learn==1.5.2
+pyarrow==13.0.0
+joblib==1.4.2
+shap==0.46.0
+scipy==1.13.1
+tqdm==4.66.4
+xgboost==1.7.6
+
+
