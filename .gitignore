@@ -1,0 +1,12 @@
+# Ignorar entorno virtual
+env_practica2/
+
+# Ignorar archivos CSV grandes
+*.csv
+
+# Ignorar otros tipos de archivos grandes
+*.dylib
+
+# Ignorar todos los archivos de logs
+*.log
+
